@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AEM Live Trial 6.2
 
 This a content package project generated using the AEM Multimodule Lazybones template.
@@ -28,3 +29,7 @@ The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
 
+=======
+# redwood
+Redwood - Live Trial 6.2 exercise
+>>>>>>> 947c78e606563455620d3e2bfa1d25ad2aa079f8
