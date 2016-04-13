@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/apps/live-trial"/>
-
-
-    <filter root="/etc/clientlibs/live-trial"/>
-
-
-</workspaceFilter>
